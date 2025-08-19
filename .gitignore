@@ -1,0 +1,9 @@
+.venv
+
+.env
+*.yaml
+!.env.example
+
+
+
+README.md
